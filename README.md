@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sohail Khan and I'm a B-tech 3rd Year student , from Bhopal</p>
+<p align="left">My name is Sohail Khan and I'm a B-tech 4th Year student , from Bhopal</p>
 
 ###
 
