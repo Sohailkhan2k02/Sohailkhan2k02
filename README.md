@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning backened<br>🎯 Goals: To contribute in GSOC and to become a Software Developer</p>
+<p align="left">📚 I'm currently learning nextjs<br>🎯 Goals: To contribute in GSOC and to become a Software Developer</p>
 
 ###
 
